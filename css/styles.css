@@ -1,0 +1,17 @@
+p.intro {
+  width: 50%;
+  font-style: italic;
+ }
+
+p.author {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.my-class {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
+}
