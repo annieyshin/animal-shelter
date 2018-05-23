@@ -1,3 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  align: center;
+  color: #FF0000;
+}
+
 p.intro {
   width: 50%;
   font-style: italic;
@@ -7,6 +16,11 @@ p.author {
   width: 75%;
   font-style: italic;
   font-weight: bold;
+}
+
+.column {
+  float: left;
+  width: 400px;
 }
 
 .my-class {
